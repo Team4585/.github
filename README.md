@@ -1,2 +1,3 @@
-# .github
-Meta-repo representing the Team4585 organization for Husky Robotics
+# Team 4585 Husky Robotics
+
+We are a FIRST Robotics Competition team in Midvale, UT.
