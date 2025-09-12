@@ -1,2 +1,3 @@
 # .github
-Meta-repo representing the Team4585 organization for Husky Robotics
+
+[![Super-Linter](https://github.com/Team4585/.github/actions/workflows/lint.yml/badge.svg)](https://github.com/marketplace/actions/super-linter)
